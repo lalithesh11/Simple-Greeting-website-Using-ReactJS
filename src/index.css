@@ -1,0 +1,24 @@
+
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+h1{
+color: rgb(192, 65, 86);
+text-align: center;
+text-transform: capitalize;
+font-weight: bold;
+text-shadow: 2px 2px 2px blue;
+margin: 50px 0;
+font-family: 'Josefin Slab', serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 50vh;
+width: 100%;
+background-color: pink;
+}
